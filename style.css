@@ -2,3 +2,8 @@ body{
     font-family:  'Raleway', sans-serif;
 }
 
+/* Estiliza botões de ano de lançamento dos filmes */
+.btn-info{
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
